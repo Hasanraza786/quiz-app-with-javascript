@@ -1,0 +1,36 @@
+body{
+    background-image: url("back1.jpg");
+}
+.login-text{
+    text-align: center;
+    color: white;
+}
+.form{
+    width: 100%;
+    margin: auto;
+    border: rgb(255, 198, 106) 5px solid;
+    height: 300px;
+    text-align: center;
+}
+.form-text{
+    /* padding: 20px; */
+    margin: 15px;
+}
+label{
+    color: rgb(255, 198, 106);
+    font-size: 20px;
+}
+input{
+    border: rgb(255, 198, 106) solid 1px;
+    margin-top: 40px;
+
+}
+.btn{
+    background-color: rgb(255, 198, 106);
+    margin-top: 70px;
+    border: solid 1px rgb(255, 198, 106);
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+}
+
